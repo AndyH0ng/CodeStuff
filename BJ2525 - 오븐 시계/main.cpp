@@ -13,9 +13,7 @@ int main() {
     int a, b;
     int c;
     int min;
-    cin >> a;
-    cin >> b;
-    cin >> c;
+    cin >> a >> b >> c;
     min = 60 * a + b + c;
     int result_hr, result_min;
     result_hr = (int) (min/60);
@@ -24,7 +22,7 @@ int main() {
     // Counter: result_hr가 24보다 클 경우
     if ( result_hr > 24 )
         result_hr -= 24;
-    result_min = min%60;
+    result_min = min % 60;
     cout << result_hr << " " << result_min << endl;
     
     return 0;

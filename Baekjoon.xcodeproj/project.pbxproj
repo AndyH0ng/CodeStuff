@@ -91,7 +91,7 @@
 		885DE4612B983653004E7C3C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		885DE46A2B983799004E7C3C /* BJ8393 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ8393; sourceTree = BUILT_PRODUCTS_DIR; };
 		885DE46C2B983799004E7C3C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		88ADAB3B2B8D6361000D3281 /* Review Note */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Review Note"; sourceTree = BUILT_PRODUCTS_DIR; };
+		88ADAB3B2B8D6361000D3281 /* Baekjoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Baekjoon; sourceTree = BUILT_PRODUCTS_DIR; };
 		88ADAB3E2B8D6361000D3281 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		88ADAB492B8D6396000D3281 /* BJ10869 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ10869; sourceTree = BUILT_PRODUCTS_DIR; };
 		88ADAB4B2B8D6396000D3281 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -191,7 +191,7 @@
 		88ADAB322B8D6361000D3281 = {
 			isa = PBXGroup;
 			children = (
-				88ADAB3D2B8D6361000D3281 /* Review Note */,
+				88ADAB3D2B8D6361000D3281 /* BJ */,
 				88ADAB4A2B8D6396000D3281 /* BJ10869 - 사칙연산 */,
 				88ADAB552B8D64F8000D3281 /* BJ1008 - A÷B */,
 				885DE44A2B982F77004E7C3C /* BJ2884 - 알람 시계 */,
@@ -205,7 +205,7 @@
 		88ADAB3C2B8D6361000D3281 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				88ADAB3B2B8D6361000D3281 /* Review Note */,
+				88ADAB3B2B8D6361000D3281 /* Baekjoon */,
 				88ADAB492B8D6396000D3281 /* BJ10869 */,
 				88ADAB542B8D64F8000D3281 /* BJ1008 */,
 				885DE4492B982F76004E7C3C /* BJ2884 */,
@@ -216,12 +216,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		88ADAB3D2B8D6361000D3281 /* Review Note */ = {
+		88ADAB3D2B8D6361000D3281 /* BJ */ = {
 			isa = PBXGroup;
 			children = (
 				88ADAB3E2B8D6361000D3281 /* main.cpp */,
 			);
-			path = "Review Note";
+			path = BJ;
 			sourceTree = "<group>";
 		};
 		88ADAB4A2B8D6396000D3281 /* BJ10869 - 사칙연산 */ = {
@@ -312,9 +312,9 @@
 			productReference = 885DE46A2B983799004E7C3C /* BJ8393 */;
 			productType = "com.apple.product-type.tool";
 		};
-		88ADAB3A2B8D6361000D3281 /* Review Note */ = {
+		88ADAB3A2B8D6361000D3281 /* Baekjoon */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 88ADAB422B8D6361000D3281 /* Build configuration list for PBXNativeTarget "Review Note" */;
+			buildConfigurationList = 88ADAB422B8D6361000D3281 /* Build configuration list for PBXNativeTarget "Baekjoon" */;
 			buildPhases = (
 				88ADAB372B8D6361000D3281 /* Sources */,
 				88ADAB382B8D6361000D3281 /* Frameworks */,
@@ -324,9 +324,9 @@
 			);
 			dependencies = (
 			);
-			name = "Review Note";
+			name = Baekjoon;
 			productName = "Review Note";
-			productReference = 88ADAB3B2B8D6361000D3281 /* Review Note */;
+			productReference = 88ADAB3B2B8D6361000D3281 /* Baekjoon */;
 			productType = "com.apple.product-type.tool";
 		};
 		88ADAB482B8D6396000D3281 /* BJ10869 */ = {
@@ -395,7 +395,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 88ADAB362B8D6361000D3281 /* Build configuration list for PBXProject "Review Note" */;
+			buildConfigurationList = 88ADAB362B8D6361000D3281 /* Build configuration list for PBXProject "Baekjoon" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -408,7 +408,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				88ADAB3A2B8D6361000D3281 /* Review Note */,
+				88ADAB3A2B8D6361000D3281 /* Baekjoon */,
 				88ADAB482B8D6396000D3281 /* BJ10869 */,
 				88ADAB532B8D64F8000D3281 /* BJ1008 */,
 				885DE4482B982F76004E7C3C /* BJ2884 */,
@@ -773,7 +773,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		88ADAB362B8D6361000D3281 /* Build configuration list for PBXProject "Review Note" */ = {
+		88ADAB362B8D6361000D3281 /* Build configuration list for PBXProject "Baekjoon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				88ADAB402B8D6361000D3281 /* Debug */,
@@ -782,7 +782,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		88ADAB422B8D6361000D3281 /* Build configuration list for PBXNativeTarget "Review Note" */ = {
+		88ADAB422B8D6361000D3281 /* Build configuration list for PBXNativeTarget "Baekjoon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				88ADAB432B8D6361000D3281 /* Debug */,
