@@ -1,14 +1,19 @@
 //
-//  main.cpp
-//  Review Note
+//  10869
+//  사칙연산
 //
 //  Created by 홍준우 on 2/27/24.
 //
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+using namespace std;
+
+int main() {
+    int x, n;
+    int a, b;
+    for (int i = 0; i < n; i++) {
+        
+    }
     return 0;
 }
