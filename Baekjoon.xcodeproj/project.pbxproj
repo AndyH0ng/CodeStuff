@@ -272,7 +272,7 @@
 		886786B12BA7116E00F1D3D1 /* BJ11382 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ11382; sourceTree = BUILT_PRODUCTS_DIR; };
 		886786B32BA7116E00F1D3D1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		886786BC2BA717F100F1D3D1 /* BJ25314 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ25314; sourceTree = BUILT_PRODUCTS_DIR; };
-		886786BE2BA717F100F1D3D1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		886786BE2BA717F100F1D3D1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = "../BJ25314 - 코딩은 체육과목 입니다/main.cpp"; sourceTree = "<group>"; };
 		887A80AA2B9956A5007ADDE6 /* BJ10430 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ10430; sourceTree = BUILT_PRODUCTS_DIR; };
 		887A80AC2B9956A5007ADDE6 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		887A80B52B9958B1007ADDE6 /* BJ2438 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ2438; sourceTree = BUILT_PRODUCTS_DIR; };
