@@ -10,15 +10,14 @@
 using namespace std;
 
 int main() {
-    // Counter: a - b 가 음수일 경우
+    // CounterEx: a - b 가 음수일 경우
     // int unsigned a, b;
     int a, b;
-    cin >> a;
-    cin >> b;
-    cout << a+b << endl;
-    cout << a-b << endl;
-    cout << a*b << endl;
-    cout << a/b << endl;
-    cout << a%b << endl;
+    cin >> a >> b;
+    cout << a + b <<
+    endl << a - b <<
+    endl << a * b <<
+    endl << a / b <<
+    endl << a % b << endl;
     return 0;
 }
