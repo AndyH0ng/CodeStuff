@@ -17,7 +17,7 @@
                BlueprintIdentifier = "885DE45E2B983653004E7C3C"
                BuildableName = "BJ2739"
                BlueprintName = "BJ2739"
-               ReferencedContainer = "container:Baekjoon.xcodeproj">
+               ReferencedContainer = "container:Baekjoon C++.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,7 +47,7 @@
             BlueprintIdentifier = "885DE45E2B983653004E7C3C"
             BuildableName = "BJ2739"
             BlueprintName = "BJ2739"
-            ReferencedContainer = "container:Baekjoon.xcodeproj">
+            ReferencedContainer = "container:Baekjoon C++.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -64,7 +64,7 @@
             BlueprintIdentifier = "885DE45E2B983653004E7C3C"
             BuildableName = "BJ2739"
             BlueprintName = "BJ2739"
-            ReferencedContainer = "container:Baekjoon.xcodeproj">
+            ReferencedContainer = "container:Baekjoon C++.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
