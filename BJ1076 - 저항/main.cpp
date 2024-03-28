@@ -1,8 +1,8 @@
 //
-//  #####
-//  PRBLMNME
+//  1076
+//  저항
 //
-//  Created by 홍준우 on M/D/YY.
+//  Created by 홍준우 on 3/27/24.
 //
 
 #include <iostream>
